@@ -1,12 +1,33 @@
-# fannychudy.com
+# Fanny Chudy — Personal Portfolio
 
-Portfolio website for Fanny Chudy (Schillinger), Senior Compliance Product Leader.
+Senior Compliance Product Leader building compliant AI, Digital Assets and Financial Crime products for the next generation of financial services.
 
-## Deploy on GitHub Pages
+## Website
 
-1. Create a repository on GitHub, for example `fannychudy.com`.
-2. Upload all files from this folder to the repository root.
-3. Go to **Settings → Pages**.
-4. Select **Deploy from a branch**, branch `main`, folder `/root`.
-5. Add the custom domain `fannychudy.com` in GitHub Pages settings.
-6. Configure your DNS provider with GitHub Pages DNS records.
+https://fannychudy.com
+
+## Positioning
+
+This portfolio highlights expertise in:
+
+- AI Governance and EU AI Act readiness
+- Compliance by Design
+- Product Compliance
+- Financial Crime, AML/CFT, KYC/KYT and KYT
+- Digital Assets, Crypto and MiCA
+- RegTech, FinTech and platform building
+- Regulatory Strategy and Legal & Regulatory Leadership
+- Remote-friendly leadership across Europe and Luxembourg
+
+## Featured Event
+
+🚀 **Coming Soon**  
+🗣️ **Paperjam Club Luxembourg**  
+**Implementing AI Governance**  
+17 February 2027
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/fanny-chudy-schillinger-64a20b169/
+- GitHub: https://github.com/FannyTech
+- Email: fanny.chudy@gmail.com
